@@ -547,7 +547,7 @@ export default function App() {
             {/* Footer Logo/Context (Except Cover) */}
             {currentSlide.type !== 'cover' && (
                 <div className="mt-auto pt-8 flex justify-between items-center text-slate-300 text-xs uppercase tracking-wider">
-                     <span>Daycoval Tokeniza &bull; 2024</span>
+                     <span>Daycoval Tokeniza &bull; 2025</span>
                      <span>{currentSlideIndex + 1} / {SLIDES.length}</span>
                 </div>
             )}
