@@ -332,7 +332,7 @@ export default function App() {
           </div>
           <div className="bg-daycoval-lightBlue text-white p-4 rounded-lg text-center mx-8">
             <h4 className="font-bold text-daycoval-gold mb-1">Plataforma (App & API)</h4>
-            <p className="text-sm opacity-80">Frontend (React), Backend (Node), Custódia</p>
+            <p className="text-sm opacity-80">Frontend (Angular), Backend (Node), Custódia</p>
           </div>
           <div className="flex justify-between gap-4 text-xs text-slate-500 px-12">
             <div className="border-t border-slate-300 pt-2 w-full text-center">B3 / Registradoras</div>
